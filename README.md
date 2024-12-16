@@ -23,8 +23,8 @@
 <p>GOOGLE_CLIENT_ID =</p>
 <p>GOOGLE_CLIENT_SECRET =</p>
 <p>GOOGLE_CALLBACK_URL = "http://localhost:8000/api/auth/google/callback"</p>
-
-
+<br>
+<br>
 
 <p>VITE_MERCHANT_ID = </p>
 <p>VITE_CLIENT_KEY = </p>
